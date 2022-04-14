@@ -1,4 +1,5 @@
 # SRQueue
+reference: https://testdriven.io/blog/developing-an-asynchronous-task-queue-in-python/
 
 SRQueue.py contains definition of class SRQueue.
 
